@@ -1,4 +1,4 @@
 # CarouselCollectionViewController
 
 
- ![image](https://github.com/ZhuoChenMing/ImageCropper/blob/master/sc.png)
+ ![image](https://github.com/zhuochenming/CarouselCollectionViewController/blob/master/1.png)
